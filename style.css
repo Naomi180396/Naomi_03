@@ -1,0 +1,27 @@
+body{
+	text-align: center;
+}
+p{
+	color: black;
+
+}
+h3{
+	color: green;
+}
+			
+
+.boite{
+	background-color: #fff;
+	width:60%;margin-left: 20%; 
+	border-radius: 5px;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+	margin-top: 30px;
+}
+
+.boite1{
+	background-color: #fff;
+	width:60%;
+	margin-left: 20%;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+	margin-top: 45px;
+}
